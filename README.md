@@ -1,3 +1,6 @@
+[English Version](README_EN.md)
+
+
 # Automatical Lumerical FDTD Simulation
 
 利用 Vibe Coding 全自动完成 Lumerical FDTD 仿真，设计光学器件。仅需提供 Prompt，模型自动纠错与迭代，全程无需人工干预。
